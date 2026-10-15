@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Astryx" fill="none" viewBox="4 6 324 76" width="324" height="76">
+  <defs>
+    <linearGradient id="astrxyGradient" x1="0" y1="0" x2="120" y2="72">
+      <stop offset="0%" stop-color="#03b3ca"/>
+      <stop offset="100%" stop-color="#4dabf7"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(6,10)">
+    <line x1="30" y1="60" x2="58" y2="8" stroke="url(#astrxyGradient)" stroke-width="2"/>
+    <line x1="58" y1="8" x2="86" y2="60" stroke="url(#astrxyGradient)" stroke-width="2"/>
+    <line x1="40" y1="42" x2="76" y2="42" stroke="url(#astrxyGradient)" stroke-width="2"/>
+    <circle cx="30" cy="60" r="3" fill="#4dabf7"/>
+    <circle cx="58" cy="8" r="3" fill="#4dabf7"/>
+    <circle cx="86" cy="60" r="3" fill="#4dabf7"/>
+    <circle cx="58" cy="42" r="2.5" fill="#03b3ca"/>
+  </g>
+
+  <text x="104" y="52"
+        font-family="Orbitron, system-ui, sans-serif"
+        font-size="32"
+        font-weight="600"
+        letter-spacing="0.12em"
+        fill="#e6edf3">
+    ASTRYX
+  </text>
+</svg>
